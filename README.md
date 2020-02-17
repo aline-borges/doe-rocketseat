@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300" height="200" src="https://github.com/aline-borges/doe-rocketseat/blob/master/img/logo.png?raw=true">
+  <img width="256" height="112" src="https://github.com/aline-borges/doe-rocketseat/blob/master/img/logo.png?raw=true">
 </p>
 
 # Doe
