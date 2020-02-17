@@ -2,7 +2,7 @@
   <img width="256" height="112" src="https://github.com/aline-borges/doe-rocketseat/blob/master/img/logo.png?raw=true">
 </p>
 
-# Doe
+# Doe Project
 
 This is a Rocketseat Project that contains a form to get blood donors on a web platform using JavaScript.
 
