@@ -7,7 +7,17 @@
 This is a Rocketseat Project that contains a form to get blood donors on a web platform using JavaScript.
 
 ## How to run
-Project only contains static files and no dependencies. Just need to clone the project.
+
+[![NPM Version][npm-image]][npm-url]
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://127.0.0.1:3000](http://127.0.0.1:3000) to view it in the browser.
+
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
+
 
 ## Technologies
 
@@ -20,8 +30,4 @@ Project only contains static files and no dependencies. Just need to clone the p
 ## Authors
 
 [Aline Borges](https://github.com/AlineBorges)
-
-
-## Demo
-<a href="https://aline-borges-doe.netlify.com//">DOA Project</a>
 
