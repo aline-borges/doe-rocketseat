@@ -8,8 +8,6 @@ This is a Rocketseat Project that contains a form to get blood donors on a web p
 
 ## How to run
 
-[![NPM Version][npm-image]][npm-url]
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
