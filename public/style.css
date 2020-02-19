@@ -53,6 +53,7 @@ form input::placeholder {
 
 form button{
     font-weight: bold;
+    cursor: pointer;
 }
 
 header button{
@@ -63,6 +64,7 @@ header button{
     font-weight: bold;
     border: none;
     margin-top: 16px;
+    cursor: pointer;
 }
 
 main h2 span {
@@ -124,6 +126,7 @@ h1, h2 {
 
  .donor p {
      margin-top: 24px;
+     margin-bottom: 64px;
      font-size: 14px;
  }
 

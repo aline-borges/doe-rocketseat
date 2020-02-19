@@ -24,7 +24,7 @@
 
     <section class="form hide">
         <h2>Entre na Lista de Doadores</h2>
-        <form action="/">
+        <form action="/" method="POST">
             <input 
                 type="text"
                 name="name"
@@ -50,28 +50,20 @@
 
     <!--Formulário-->
         <section class="donors">
-            <div class="donor">
-                <div class="blood">AB+</div>
-                <p>Diego Fernandes</p>
-            </div>
-            <div class="donor">
-                <div class="blood">B+</div>
-                <p>Cleiton Souza</p>
-            </div>
-            <div class="donor">
-                <div class="blood">A+</div>
-                <p>Robson Marques</p>
-            </div>
-            <div class="donor">
-                <div class="blood">O+</div>
-                <p>Mayk Brito</p>
-            </div>
+            {% for donor in donors %}
+
+                <div class="donor">
+                    <div class="blood">{{donor.blood}}</div>
+                    <p>{{donor.name}}</p>
+                </div>
+
+            {%endfor%}
         </section>
     </main>
 
     <!--Conteúdo do Rodapé-->
     <footer>
-        Com amor Rocketseat
+        Com ❤ Rocketseat
     </footer>
 
     <!--Código JavaScript-->
