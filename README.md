@@ -6,12 +6,6 @@
 
 This is a Rocketseat Project that contains a form to get blood donors on a web platform using JavaScript.
 
-## How to run
-
-### loading
-You will also see any lint errors in the console.
-
-
 ## Technologies
 
  <p align="left">
