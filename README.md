@@ -6,9 +6,6 @@
 
 This is a Rocketseat Project that contains a form to get blood donors on a web platform using JavaScript.
 
-## How to run
-Project only contains static files and no dependencies. Just need to clone the project.
-
 ## Technologies
 
  <p align="left">
@@ -20,8 +17,4 @@ Project only contains static files and no dependencies. Just need to clone the p
 ## Authors
 
 [Aline Borges](https://github.com/AlineBorges)
-
-
-## Demo
-<a href="https://aline-borges-doe.netlify.com//">DOA Project</a>
 
