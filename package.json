@@ -20,11 +20,14 @@
   "dependencies": {
     "dot-prop": "^7.2.0",
     "express": "^4.18.1",
+    "glob-parent": "^5.1.2",
+    "got": "^11.8.5",
     "ini": "^3.0.0",
     "minimist": "^1.2.6",
     "nodemon": "^2.0.18",
     "nunjucks": "^3.2.3",
-    "pg": "^8.7.3"
+    "pg": "^8.7.3",
+    "tar": "^4.4.18"
   },
   "devDependencies": {
     "yarn-upgrade-all": "^0.7.1"
